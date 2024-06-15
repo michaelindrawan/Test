@@ -108,7 +108,6 @@ elif analysis_type == "Clustering":
                 st.write("Predictions:")
                 st.write(predictions)
 
-
 # Time Series Analysis
 elif analysis_type == "Time Series":
     st.header("Time Series Analysis with auto_arima")
